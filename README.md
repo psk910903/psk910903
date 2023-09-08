@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-포트폴리오
-https://psk910903.github.io/
+
 
 <!--
 **psk910903/psk910903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
